@@ -1,0 +1,38 @@
+peca1 = 12
+ndepeca1 = 1 
+vlu1 = 5.30
+
+peca2 = 16
+ndepeca2 = 2
+vlu2 = 5.10
+
+valor1 = (ndepeca1*vlu1)
+valor2 = (ndepeca2*vlu2)
+valortotal = valor1 + valor2
+print(valortotal)
+
+peca1 = 13
+ndepeca1 = 2
+vlu1 = 15.30
+
+peca2 = 161
+ndepeca2 = 4
+vlu2 = 5.20
+
+valor1 = ndepeca1*vlu1
+valor2 = ndepeca2*vlu2
+valortotal = valor1 + valor2
+print(valortotal)
+
+peca1 = 1
+ndepeca1 = 1
+vlu1 = 15.10
+
+peca2 = 2
+ndepeca2 = 1
+vlu2 = 15.10
+
+valor1 = ndepeca1*vlu1
+valor2 = ndepeca2*vlu2
+valortotal = valor1 + valor2
+print(valortotal)
